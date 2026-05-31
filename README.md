@@ -234,27 +234,9 @@ Add your actual values here:
 | Mean Absolute Error (MAE) | YOUR_MAE_VALUE |
 | Mean Squared Error (MSE) | YOUR_MSE_VALUE |
 
----
+## 📈 Forecast Visualization
 
-## 📷 Project Screenshots
-
-### Dataset Loaded
-
-![Dataset Loaded](screenshots/dataset_loaded.png)
-
----
-
-### Model Training
-
-![Model Training](screenshots/model_trained.png)
-
----
-
-### Forecast Graph
-
-![Forecast Graph](screenshots/forecast_graph.png)
-
----
+![Forecast Graph](outputs/forecast_plot.png)
 
 ## 🚀 Future Improvements
 
